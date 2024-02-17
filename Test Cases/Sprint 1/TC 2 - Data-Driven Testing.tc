@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 2 - Data-Driven Testing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd23a995-8dc4-4087-a462-228d990c716d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>de2be694-2cb2-4cf1-a417-416cc7a59ff4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>56b342a7-433f-4377-a59c-ca0ca33b572c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fffdd18c-de0f-4e1e-b691-5910947f40ec</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Startup Test 1'</defaultValue>
+      <description></description>
+      <id>de2be694-2cb2-4cf1-a417-416cc7a59ff4</id>
+      <masked>false</masked>
+      <name>startupName</name>
+   </variable>
+   <variable>
+      <defaultValue>'You’re not associated with the startup page.'</defaultValue>
+      <description></description>
+      <id>56b342a7-433f-4377-a59c-ca0ca33b572c</id>
+      <masked>false</masked>
+      <name>startupCreated</name>
+   </variable>
+   <variable>
+      <defaultValue>'George Startup Test 1'</defaultValue>
+      <description></description>
+      <id>fffdd18c-de0f-4e1e-b691-5910947f40ec</id>
+      <masked>false</masked>
+      <name>newStartupName</name>
+   </variable>
+</TestCaseEntity>

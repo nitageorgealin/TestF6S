@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 1 - Login Functionality</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>74d1de48-d456-4316-9df0-95fc8692aacf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>16a391fb-4373-42c8-a479-a194dabae222</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Welcome to F6S'</defaultValue>
+      <description></description>
+      <id>16a391fb-4373-42c8-a479-a194dabae222</id>
+      <masked>false</masked>
+      <name>welcomeF6S</name>
+   </variable>
+</TestCaseEntity>
